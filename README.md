@@ -14,6 +14,7 @@ out a the text of that card, its image, or its prices:
 | `[[Snapcaster Mage]]`      | Show a text representation of Snapcaster Mage.                   |
 | `[[!Sphinx's Revelation]]` | Show an picture of Sphinx's Revelation.                          |
 | `[[$Force of Will]]`       | Show prices for printings of Force of Will (currently FPO data). |
+| `[[~Force of Will]]`       | Show all matches for given query with a list of links.           |
 
 ![Example usage](docs/screenshot.png)
 
@@ -71,4 +72,3 @@ Pro tips:
 
 - It's recommended that you have a separate test bot ("Servo" is a great name) and channel for testing.
 - After making changes, you will need to restart the bot to see them reflected.
-
